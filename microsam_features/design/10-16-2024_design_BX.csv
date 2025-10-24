@@ -1,0 +1,289 @@
+Index,Plate_ID,Well_ID,SampleID,Genotype,Treatment,Dosage,DrugID,Row,Col
+plate_1_A01,plate_1,A01,QR19,control,DMSO,0.10%,DMSO,A,1
+plate_1_B01,plate_1,B01,QR19,control,Compound_1,10uM,PIK-294,B,1
+plate_1_C01,plate_1,C01,QR19,control,Compound_2,10uM,GNF-2,C,1
+plate_1_D01,plate_1,D01,QR19,control,Compound_3,10uM,Dovitinib (TKI-258),D,1
+plate_1_E01,plate_1,E01,QR19,control,Compound_4,10uM,AZD5438,E,1
+plate_1_F01,plate_1,F01,QR19,control,Compound_5,10uM,BAY 11-7082 (BAY 11-7821),F,1
+plate_1_G01,plate_1,G01,QR19,control,Compound_6,10uM,PCI-32765 (Ibrutinib),G,1
+plate_1_H01,plate_1,H01,QR19,control,Compound_7,10uM,SAR131675,H,1
+plate_1_A02,plate_1,A02,QR19,control,Stauroporine,0.5uM,Staurosporine,A,2
+plate_1_B02,plate_1,B02,QR19,control,Compound_8,10uM,TAK-285,B,2
+plate_1_C02,plate_1,C02,QR19,control,Compound_9,10uM, Erlotinib(OSI-744),C,2
+plate_1_D02,plate_1,D02,QR19,control,Compound_10,10uM,WP1130,D,2
+plate_1_E02,plate_1,E02,QR19,control,Compound_11,10uM,TSU-68,E,2
+plate_1_F02,plate_1,F02,QR19,control,Compound_12,10uM,KU-60019,F,2
+plate_1_G02,plate_1,G02,QR19,control,Compound_13,10uM,"Duvelisib (IPI-145, INK1197)",G,2
+plate_1_H02,plate_1,H02,QR19,control,Compound_14,10uM,AEE788 (NVP-AEE788),H,2
+plate_1_A03,plate_1,A03,QR19,control,DMSO,0.10%,DMSO,A,3
+plate_1_B03,plate_1,B03,QR19,control,Compound_1,10uM,PIK-294,B,3
+plate_1_C03,plate_1,C03,QR19,control,Compound_2,10uM,GNF-2,C,3
+plate_1_D03,plate_1,D03,QR19,control,Compound_3,10uM,Dovitinib (TKI-258),D,3
+plate_1_E03,plate_1,E03,QR19,control,Compound_4,10uM,AZD5438,E,3
+plate_1_F03,plate_1,F03,QR19,control,Compound_5,10uM,BAY 11-7082 (BAY 11-7821),F,3
+plate_1_G03,plate_1,G03,QR19,control,Compound_6,10uM,PCI-32765 (Ibrutinib),G,3
+plate_1_H03,plate_1,H03,QR19,control,Compound_7,10uM,SAR131675,H,3
+plate_1_A04,plate_1,A04,QR19,control,Stauroporine,0.5uM,Staurosporine,A,4
+plate_1_B04,plate_1,B04,QR19,control,Compound_8,10uM,TAK-285,B,4
+plate_1_C04,plate_1,C04,QR19,control,Compound_9,10uM, Erlotinib(OSI-744),C,4
+plate_1_D04,plate_1,D04,QR19,control,Compound_10,10uM,WP1130,D,4
+plate_1_E04,plate_1,E04,QR19,control,Compound_11,10uM,TSU-68,E,4
+plate_1_F04,plate_1,F04,QR19,control,Compound_12,10uM,KU-60019,F,4
+plate_1_G04,plate_1,G04,QR19,control,Compound_13,10uM,"Duvelisib (IPI-145, INK1197)",G,4
+plate_1_H04,plate_1,H04,QR19,control,Compound_14,10uM,AEE788 (NVP-AEE788),H,4
+plate_1_A05,plate_1,A05,QR19,control,DMSO,0.10%,DMSO,A,5
+plate_1_B05,plate_1,B05,QR19,control,Compound_1,10uM,PIK-294,B,5
+plate_1_C05,plate_1,C05,QR19,control,Compound_2,10uM,GNF-2,C,5
+plate_1_D05,plate_1,D05,QR19,control,Compound_3,10uM,Dovitinib (TKI-258),D,5
+plate_1_E05,plate_1,E05,QR19,control,Compound_4,10uM,AZD5438,E,5
+plate_1_F05,plate_1,F05,QR19,control,Compound_5,10uM,BAY 11-7082 (BAY 11-7821),F,5
+plate_1_G05,plate_1,G05,QR19,control,Compound_6,10uM,PCI-32765 (Ibrutinib),G,5
+plate_1_H05,plate_1,H05,QR19,control,Compound_7,10uM,SAR131675,H,5
+plate_1_A06,plate_1,A06,QR19,control,Stauroporine,0.5uM,Staurosporine,A,6
+plate_1_B06,plate_1,B06,QR19,control,Compound_8,10uM,TAK-285,B,6
+plate_1_C06,plate_1,C06,QR19,control,Compound_9,10uM, Erlotinib(OSI-744),C,6
+plate_1_D06,plate_1,D06,QR19,control,Compound_10,10uM,WP1130,D,6
+plate_1_E06,plate_1,E06,QR19,control,Compound_11,10uM,TSU-68,E,6
+plate_1_F06,plate_1,F06,QR19,control,Compound_12,10uM,KU-60019,F,6
+plate_1_G06,plate_1,G06,QR19,control,Compound_13,10uM,"Duvelisib (IPI-145, INK1197)",G,6
+plate_1_H06,plate_1,H06,QR19,control,Compound_14,10uM,AEE788 (NVP-AEE788),H,6
+plate_1_A07,plate_1,A07,QR23,patient,DMSO,0.10%,DMSO,A,7
+plate_1_B07,plate_1,B07,QR23,patient,Compound_1,10uM,PIK-294,B,7
+plate_1_C07,plate_1,C07,QR23,patient,Compound_2,10uM,GNF-2,C,7
+plate_1_D07,plate_1,D07,QR23,patient,Compound_3,10uM,Dovitinib (TKI-258),D,7
+plate_1_E07,plate_1,E07,QR23,patient,Compound_4,10uM,AZD5438,E,7
+plate_1_F07,plate_1,F07,QR23,patient,Compound_5,10uM,BAY 11-7082 (BAY 11-7821),F,7
+plate_1_G07,plate_1,G07,QR23,patient,Compound_6,10uM,PCI-32765 (Ibrutinib),G,7
+plate_1_H07,plate_1,H07,QR23,patient,Compound_7,10uM,SAR131675,H,7
+plate_1_A08,plate_1,A08,QR23,patient,Stauroporine,0.5uM,Staurosporine,A,8
+plate_1_B08,plate_1,B08,QR23,patient,Compound_8,10uM,TAK-285,B,8
+plate_1_C08,plate_1,C08,QR23,patient,Compound_9,10uM, Erlotinib(OSI-744),C,8
+plate_1_D08,plate_1,D08,QR23,patient,Compound_10,10uM,WP1130,D,8
+plate_1_E08,plate_1,E08,QR23,patient,Compound_11,10uM,TSU-68,E,8
+plate_1_F08,plate_1,F08,QR23,patient,Compound_12,10uM,KU-60019,F,8
+plate_1_G08,plate_1,G08,QR23,patient,Compound_13,10uM,"Duvelisib (IPI-145, INK1197)",G,8
+plate_1_H08,plate_1,H08,QR23,patient,Compound_14,10uM,AEE788 (NVP-AEE788),H,8
+plate_1_A09,plate_1,A09,QR23,patient,DMSO,0.10%,DMSO,A,9
+plate_1_B09,plate_1,B09,QR23,patient,Compound_1,10uM,PIK-294,B,9
+plate_1_C09,plate_1,C09,QR23,patient,Compound_2,10uM,GNF-2,C,9
+plate_1_D09,plate_1,D09,QR23,patient,Compound_3,10uM,Dovitinib (TKI-258),D,9
+plate_1_E09,plate_1,E09,QR23,patient,Compound_4,10uM,AZD5438,E,9
+plate_1_F09,plate_1,F09,QR23,patient,Compound_5,10uM,BAY 11-7082 (BAY 11-7821),F,9
+plate_1_G09,plate_1,G09,QR23,patient,Compound_6,10uM,PCI-32765 (Ibrutinib),G,9
+plate_1_H09,plate_1,H09,QR23,patient,Compound_7,10uM,SAR131675,H,9
+plate_1_A10,plate_1,A10,QR23,patient,Stauroporine,0.5uM,Staurosporine,A,10
+plate_1_B10,plate_1,B10,QR23,patient,Compound_8,10uM,TAK-285,B,10
+plate_1_C10,plate_1,C10,QR23,patient,Compound_9,10uM, Erlotinib(OSI-744),C,10
+plate_1_D10,plate_1,D10,QR23,patient,Compound_10,10uM,WP1130,D,10
+plate_1_E10,plate_1,E10,QR23,patient,Compound_11,10uM,TSU-68,E,10
+plate_1_F10,plate_1,F10,QR23,patient,Compound_12,10uM,KU-60019,F,10
+plate_1_G10,plate_1,G10,QR23,patient,Compound_13,10uM,"Duvelisib (IPI-145, INK1197)",G,10
+plate_1_H10,plate_1,H10,QR23,patient,Compound_14,10uM,AEE788 (NVP-AEE788),H,10
+plate_1_A11,plate_1,A11,QR23,patient,DMSO,0.10%,DMSO,A,11
+plate_1_B11,plate_1,B11,QR23,patient,Compound_1,10uM,PIK-294,B,11
+plate_1_C11,plate_1,C11,QR23,patient,Compound_2,10uM,GNF-2,C,11
+plate_1_D11,plate_1,D11,QR23,patient,Compound_3,10uM,Dovitinib (TKI-258),D,11
+plate_1_E11,plate_1,E11,QR23,patient,Compound_4,10uM,AZD5438,E,11
+plate_1_F11,plate_1,F11,QR23,patient,Compound_5,10uM,BAY 11-7082 (BAY 11-7821),F,11
+plate_1_G11,plate_1,G11,QR23,patient,Compound_6,10uM,PCI-32765 (Ibrutinib),G,11
+plate_1_H11,plate_1,H11,QR23,patient,Compound_7,10uM,SAR131675,H,11
+plate_1_A12,plate_1,A12,QR23,patient,Stauroporine,0.5uM,Staurosporine,A,12
+plate_1_B12,plate_1,B12,QR23,patient,Compound_8,10uM,TAK-285,B,12
+plate_1_C12,plate_1,C12,QR23,patient,Compound_9,10uM, Erlotinib(OSI-744),C,12
+plate_1_D12,plate_1,D12,QR23,patient,Compound_10,10uM,WP1130,D,12
+plate_1_E12,plate_1,E12,QR23,patient,Compound_11,10uM,TSU-68,E,12
+plate_1_F12,plate_1,F12,QR23,patient,Compound_12,10uM,KU-60019,F,12
+plate_1_G12,plate_1,G12,QR23,patient,Compound_13,10uM,"Duvelisib (IPI-145, INK1197)",G,12
+plate_1_H12,plate_1,H12,QR23,patient,Compound_14,10uM,AEE788 (NVP-AEE788),H,12
+plate_2_A01,plate_2,A01,Q5,control,DMSO,0.10%,DMSO,A,1
+plate_2_B01,plate_2,B01,Q5,control,Compound_1,10uM,PIK-294,B,1
+plate_2_C01,plate_2,C01,Q5,control,Compound_2,10uM,GNF-2,C,1
+plate_2_D01,plate_2,D01,Q5,control,Compound_3,10uM,Dovitinib (TKI-258),D,1
+plate_2_E01,plate_2,E01,Q5,control,Compound_4,10uM,AZD5438,E,1
+plate_2_F01,plate_2,F01,Q5,control,Compound_5,10uM,BAY 11-7082 (BAY 11-7821),F,1
+plate_2_G01,plate_2,G01,Q5,control,Compound_6,10uM,PCI-32765 (Ibrutinib),G,1
+plate_2_H01,plate_2,H01,Q5,control,Compound_7,10uM,SAR131675,H,1
+plate_2_A02,plate_2,A02,Q5,control,Stauroporine,0.5uM,Staurosporine,A,2
+plate_2_B02,plate_2,B02,Q5,control,Compound_8,10uM,TAK-285,B,2
+plate_2_C02,plate_2,C02,Q5,control,Compound_9,10uM, Erlotinib(OSI-744),C,2
+plate_2_D02,plate_2,D02,Q5,control,Compound_10,10uM,WP1130,D,2
+plate_2_E02,plate_2,E02,Q5,control,Compound_11,10uM,TSU-68,E,2
+plate_2_F02,plate_2,F02,Q5,control,Compound_12,10uM,KU-60019,F,2
+plate_2_G02,plate_2,G02,Q5,control,Compound_13,10uM,"Duvelisib (IPI-145, INK1197)",G,2
+plate_2_H02,plate_2,H02,Q5,control,Compound_14,10uM,AEE788 (NVP-AEE788),H,2
+plate_2_A03,plate_2,A03,Q5,control,DMSO,0.10%,DMSO,A,3
+plate_2_B03,plate_2,B03,Q5,control,Compound_1,10uM,PIK-294,B,3
+plate_2_C03,plate_2,C03,Q5,control,Compound_2,10uM,GNF-2,C,3
+plate_2_D03,plate_2,D03,Q5,control,Compound_3,10uM,Dovitinib (TKI-258),D,3
+plate_2_E03,plate_2,E03,Q5,control,Compound_4,10uM,AZD5438,E,3
+plate_2_F03,plate_2,F03,Q5,control,Compound_5,10uM,BAY 11-7082 (BAY 11-7821),F,3
+plate_2_G03,plate_2,G03,Q5,control,Compound_6,10uM,PCI-32765 (Ibrutinib),G,3
+plate_2_H03,plate_2,H03,Q5,control,Compound_7,10uM,SAR131675,H,3
+plate_2_A04,plate_2,A04,Q5,control,Stauroporine,0.5uM,Staurosporine,A,4
+plate_2_B04,plate_2,B04,Q5,control,Compound_8,10uM,TAK-285,B,4
+plate_2_C04,plate_2,C04,Q5,control,Compound_9,10uM, Erlotinib(OSI-744),C,4
+plate_2_D04,plate_2,D04,Q5,control,Compound_10,10uM,WP1130,D,4
+plate_2_E04,plate_2,E04,Q5,control,Compound_11,10uM,TSU-68,E,4
+plate_2_F04,plate_2,F04,Q5,control,Compound_12,10uM,KU-60019,F,4
+plate_2_G04,plate_2,G04,Q5,control,Compound_13,10uM,"Duvelisib (IPI-145, INK1197)",G,4
+plate_2_H04,plate_2,H04,Q5,control,Compound_14,10uM,AEE788 (NVP-AEE788),H,4
+plate_2_A05,plate_2,A05,Q5,control,DMSO,0.10%,DMSO,A,5
+plate_2_B05,plate_2,B05,Q5,control,Compound_1,10uM,PIK-294,B,5
+plate_2_C05,plate_2,C05,Q5,control,Compound_2,10uM,GNF-2,C,5
+plate_2_D05,plate_2,D05,Q5,control,Compound_3,10uM,Dovitinib (TKI-258),D,5
+plate_2_E05,plate_2,E05,Q5,control,Compound_4,10uM,AZD5438,E,5
+plate_2_F05,plate_2,F05,Q5,control,Compound_5,10uM,BAY 11-7082 (BAY 11-7821),F,5
+plate_2_G05,plate_2,G05,Q5,control,Compound_6,10uM,PCI-32765 (Ibrutinib),G,5
+plate_2_H05,plate_2,H05,Q5,control,Compound_7,10uM,SAR131675,H,5
+plate_2_A06,plate_2,A06,Q5,control,Stauroporine,0.5uM,Staurosporine,A,6
+plate_2_B06,plate_2,B06,Q5,control,Compound_8,10uM,TAK-285,B,6
+plate_2_C06,plate_2,C06,Q5,control,Compound_9,10uM, Erlotinib(OSI-744),C,6
+plate_2_D06,plate_2,D06,Q5,control,Compound_10,10uM,WP1130,D,6
+plate_2_E06,plate_2,E06,Q5,control,Compound_11,10uM,TSU-68,E,6
+plate_2_F06,plate_2,F06,Q5,control,Compound_12,10uM,KU-60019,F,6
+plate_2_G06,plate_2,G06,Q5,control,Compound_13,10uM,"Duvelisib (IPI-145, INK1197)",G,6
+plate_2_H06,plate_2,H06,Q5,control,Compound_14,10uM,AEE788 (NVP-AEE788),H,6
+plate_2_A07,plate_2,A07,Q6,patient,DMSO,0.10%,DMSO,A,7
+plate_2_B07,plate_2,B07,Q6,patient,Compound_1,10uM,PIK-294,B,7
+plate_2_C07,plate_2,C07,Q6,patient,Compound_2,10uM,GNF-2,C,7
+plate_2_D07,plate_2,D07,Q6,patient,Compound_3,10uM,Dovitinib (TKI-258),D,7
+plate_2_E07,plate_2,E07,Q6,patient,Compound_4,10uM,AZD5438,E,7
+plate_2_F07,plate_2,F07,Q6,patient,Compound_5,10uM,BAY 11-7082 (BAY 11-7821),F,7
+plate_2_G07,plate_2,G07,Q6,patient,Compound_6,10uM,PCI-32765 (Ibrutinib),G,7
+plate_2_H07,plate_2,H07,Q6,patient,Compound_7,10uM,SAR131675,H,7
+plate_2_A08,plate_2,A08,Q6,patient,Stauroporine,0.5uM,Staurosporine,A,8
+plate_2_B08,plate_2,B08,Q6,patient,Compound_8,10uM,TAK-285,B,8
+plate_2_C08,plate_2,C08,Q6,patient,Compound_9,10uM, Erlotinib(OSI-744),C,8
+plate_2_D08,plate_2,D08,Q6,patient,Compound_10,10uM,WP1130,D,8
+plate_2_E08,plate_2,E08,Q6,patient,Compound_11,10uM,TSU-68,E,8
+plate_2_F08,plate_2,F08,Q6,patient,Compound_12,10uM,KU-60019,F,8
+plate_2_G08,plate_2,G08,Q6,patient,Compound_13,10uM,"Duvelisib (IPI-145, INK1197)",G,8
+plate_2_H08,plate_2,H08,Q6,patient,Compound_14,10uM,AEE788 (NVP-AEE788),H,8
+plate_2_A09,plate_2,A09,Q6,patient,DMSO,0.10%,DMSO,A,9
+plate_2_B09,plate_2,B09,Q6,patient,Compound_1,10uM,PIK-294,B,9
+plate_2_C09,plate_2,C09,Q6,patient,Compound_2,10uM,GNF-2,C,9
+plate_2_D09,plate_2,D09,Q6,patient,Compound_3,10uM,Dovitinib (TKI-258),D,9
+plate_2_E09,plate_2,E09,Q6,patient,Compound_4,10uM,AZD5438,E,9
+plate_2_F09,plate_2,F09,Q6,patient,Compound_5,10uM,BAY 11-7082 (BAY 11-7821),F,9
+plate_2_G09,plate_2,G09,Q6,patient,Compound_6,10uM,PCI-32765 (Ibrutinib),G,9
+plate_2_H09,plate_2,H09,Q6,patient,Compound_7,10uM,SAR131675,H,9
+plate_2_A10,plate_2,A10,Q6,patient,Stauroporine,0.5uM,Staurosporine,A,10
+plate_2_B10,plate_2,B10,Q6,patient,Compound_8,10uM,TAK-285,B,10
+plate_2_C10,plate_2,C10,Q6,patient,Compound_9,10uM, Erlotinib(OSI-744),C,10
+plate_2_D10,plate_2,D10,Q6,patient,Compound_10,10uM,WP1130,D,10
+plate_2_E10,plate_2,E10,Q6,patient,Compound_11,10uM,TSU-68,E,10
+plate_2_F10,plate_2,F10,Q6,patient,Compound_12,10uM,KU-60019,F,10
+plate_2_G10,plate_2,G10,Q6,patient,Compound_13,10uM,"Duvelisib (IPI-145, INK1197)",G,10
+plate_2_H10,plate_2,H10,Q6,patient,Compound_14,10uM,AEE788 (NVP-AEE788),H,10
+plate_2_A11,plate_2,A11,Q6,patient,DMSO,0.10%,DMSO,A,11
+plate_2_B11,plate_2,B11,Q6,patient,Compound_1,10uM,PIK-294,B,11
+plate_2_C11,plate_2,C11,Q6,patient,Compound_2,10uM,GNF-2,C,11
+plate_2_D11,plate_2,D11,Q6,patient,Compound_3,10uM,Dovitinib (TKI-258),D,11
+plate_2_E11,plate_2,E11,Q6,patient,Compound_4,10uM,AZD5438,E,11
+plate_2_F11,plate_2,F11,Q6,patient,Compound_5,10uM,BAY 11-7082 (BAY 11-7821),F,11
+plate_2_G11,plate_2,G11,Q6,patient,Compound_6,10uM,PCI-32765 (Ibrutinib),G,11
+plate_2_H11,plate_2,H11,Q6,patient,Compound_7,10uM,SAR131675,H,11
+plate_2_A12,plate_2,A12,Q6,patient,Stauroporine,0.5uM,Staurosporine,A,12
+plate_2_B12,plate_2,B12,Q6,patient,Compound_8,10uM,TAK-285,B,12
+plate_2_C12,plate_2,C12,Q6,patient,Compound_9,10uM, Erlotinib(OSI-744),C,12
+plate_2_D12,plate_2,D12,Q6,patient,Compound_10,10uM,WP1130,D,12
+plate_2_E12,plate_2,E12,Q6,patient,Compound_11,10uM,TSU-68,E,12
+plate_2_F12,plate_2,F12,Q6,patient,Compound_12,10uM,KU-60019,F,12
+plate_2_G12,plate_2,G12,Q6,patient,Compound_13,10uM,"Duvelisib (IPI-145, INK1197)",G,12
+plate_2_H12,plate_2,H12,Q6,patient,Compound_14,10uM,AEE788 (NVP-AEE788),H,12
+Plate_3_A01,Plate_3,A01,QR20,control,DMSO,0.10%,DMSO,A,1
+Plate_3_B01,Plate_3,B01,QR20,control,Compound_1,10uM,PIK-294,B,1
+Plate_3_C01,Plate_3,C01,QR20,control,Compound_2,10uM,GNF-2,C,1
+Plate_3_D01,Plate_3,D01,QR20,control,Compound_3,10uM,Dovitinib (TKI-258),D,1
+Plate_3_E01,Plate_3,E01,QR20,control,Compound_4,10uM,AZD5438,E,1
+Plate_3_F01,Plate_3,F01,QR20,control,Compound_5,10uM,BAY 11-7082 (BAY 11-7821),F,1
+Plate_3_G01,Plate_3,G01,QR20,control,Compound_6,10uM,PCI-32765 (Ibrutinib),G,1
+Plate_3_H01,Plate_3,H01,QR20,control,Compound_7,10uM,SAR131675,H,1
+Plate_3_A02,Plate_3,A02,QR20,control,Stauroporine,0.5uM,Staurosporine,A,2
+Plate_3_B02,Plate_3,B02,QR20,control,Compound_8,10uM,TAK-285,B,2
+Plate_3_C02,Plate_3,C02,QR20,control,Compound_9,10uM, Erlotinib(OSI-744),C,2
+Plate_3_D02,Plate_3,D02,QR20,control,Compound_10,10uM,WP1130,D,2
+Plate_3_E02,Plate_3,E02,QR20,control,Compound_11,10uM,TSU-68,E,2
+Plate_3_F02,Plate_3,F02,QR20,control,Compound_12,10uM,KU-60019,F,2
+Plate_3_G02,Plate_3,G02,QR20,control,Compound_13,10uM,"Duvelisib (IPI-145, INK1197)",G,2
+Plate_3_H02,Plate_3,H02,QR20,control,Compound_14,10uM,AEE788 (NVP-AEE788),H,2
+Plate_3_A03,Plate_3,A03,QR20,control,DMSO,0.10%,DMSO,A,3
+Plate_3_B03,Plate_3,B03,QR20,control,Compound_1,10uM,PIK-294,B,3
+Plate_3_C03,Plate_3,C03,QR20,control,Compound_2,10uM,GNF-2,C,3
+Plate_3_D03,Plate_3,D03,QR20,control,Compound_3,10uM,Dovitinib (TKI-258),D,3
+Plate_3_E03,Plate_3,E03,QR20,control,Compound_4,10uM,AZD5438,E,3
+Plate_3_F03,Plate_3,F03,QR20,control,Compound_5,10uM,BAY 11-7082 (BAY 11-7821),F,3
+Plate_3_G03,Plate_3,G03,QR20,control,Compound_6,10uM,PCI-32765 (Ibrutinib),G,3
+Plate_3_H03,Plate_3,H03,QR20,control,Compound_7,10uM,SAR131675,H,3
+Plate_3_A04,Plate_3,A04,QR20,control,Stauroporine,0.5uM,Staurosporine,A,4
+Plate_3_B04,Plate_3,B04,QR20,control,Compound_8,10uM,TAK-285,B,4
+Plate_3_C04,Plate_3,C04,QR20,control,Compound_9,10uM, Erlotinib(OSI-744),C,4
+Plate_3_D04,Plate_3,D04,QR20,control,Compound_10,10uM,WP1130,D,4
+Plate_3_E04,Plate_3,E04,QR20,control,Compound_11,10uM,TSU-68,E,4
+Plate_3_F04,Plate_3,F04,QR20,control,Compound_12,10uM,KU-60019,F,4
+Plate_3_G04,Plate_3,G04,QR20,control,Compound_13,10uM,"Duvelisib (IPI-145, INK1197)",G,4
+Plate_3_H04,Plate_3,H04,QR20,control,Compound_14,10uM,AEE788 (NVP-AEE788),H,4
+Plate_3_A05,Plate_3,A05,QR20,control,DMSO,0.10%,DMSO,A,5
+Plate_3_B05,Plate_3,B05,QR20,control,Compound_1,10uM,PIK-294,B,5
+Plate_3_C05,Plate_3,C05,QR20,control,Compound_2,10uM,GNF-2,C,5
+Plate_3_D05,Plate_3,D05,QR20,control,Compound_3,10uM,Dovitinib (TKI-258),D,5
+Plate_3_E05,Plate_3,E05,QR20,control,Compound_4,10uM,AZD5438,E,5
+Plate_3_F05,Plate_3,F05,QR20,control,Compound_5,10uM,BAY 11-7082 (BAY 11-7821),F,5
+Plate_3_G05,Plate_3,G05,QR20,control,Compound_6,10uM,PCI-32765 (Ibrutinib),G,5
+Plate_3_H05,Plate_3,H05,QR20,control,Compound_7,10uM,SAR131675,H,5
+Plate_3_A06,Plate_3,A06,QR20,control,Stauroporine,0.5uM,Staurosporine,A,6
+Plate_3_B06,Plate_3,B06,QR20,control,Compound_8,10uM,TAK-285,B,6
+Plate_3_C06,Plate_3,C06,QR20,control,Compound_9,10uM, Erlotinib(OSI-744),C,6
+Plate_3_D06,Plate_3,D06,QR20,control,Compound_10,10uM,WP1130,D,6
+Plate_3_E06,Plate_3,E06,QR20,control,Compound_11,10uM,TSU-68,E,6
+Plate_3_F06,Plate_3,F06,QR20,control,Compound_12,10uM,KU-60019,F,6
+Plate_3_G06,Plate_3,G06,QR20,control,Compound_13,10uM,"Duvelisib (IPI-145, INK1197)",G,6
+Plate_3_H06,Plate_3,H06,QR20,control,Compound_14,10uM,AEE788 (NVP-AEE788),H,6
+Plate_3_A07,Plate_3,A07,QR27,patient,DMSO,0.10%,DMSO,A,7
+Plate_3_B07,Plate_3,B07,QR27,patient,Compound_1,10uM,PIK-294,B,7
+Plate_3_C07,Plate_3,C07,QR27,patient,Compound_2,10uM,GNF-2,C,7
+Plate_3_D07,Plate_3,D07,QR27,patient,Compound_3,10uM,Dovitinib (TKI-258),D,7
+Plate_3_E07,Plate_3,E07,QR27,patient,Compound_4,10uM,AZD5438,E,7
+Plate_3_F07,Plate_3,F07,QR27,patient,Compound_5,10uM,BAY 11-7082 (BAY 11-7821),F,7
+Plate_3_G07,Plate_3,G07,QR27,patient,Compound_6,10uM,PCI-32765 (Ibrutinib),G,7
+Plate_3_H07,Plate_3,H07,QR27,patient,Compound_7,10uM,SAR131675,H,7
+Plate_3_A08,Plate_3,A08,QR27,patient,Stauroporine,0.5uM,Staurosporine,A,8
+Plate_3_B08,Plate_3,B08,QR27,patient,Compound_8,10uM,TAK-285,B,8
+Plate_3_C08,Plate_3,C08,QR27,patient,Compound_9,10uM, Erlotinib(OSI-744),C,8
+Plate_3_D08,Plate_3,D08,QR27,patient,Compound_10,10uM,WP1130,D,8
+Plate_3_E08,Plate_3,E08,QR27,patient,Compound_11,10uM,TSU-68,E,8
+Plate_3_F08,Plate_3,F08,QR27,patient,Compound_12,10uM,KU-60019,F,8
+Plate_3_G08,Plate_3,G08,QR27,patient,Compound_13,10uM,"Duvelisib (IPI-145, INK1197)",G,8
+Plate_3_H08,Plate_3,H08,QR27,patient,Compound_14,10uM,AEE788 (NVP-AEE788),H,8
+Plate_3_A09,Plate_3,A09,QR27,patient,DMSO,0.10%,DMSO,A,9
+Plate_3_B09,Plate_3,B09,QR27,patient,Compound_1,10uM,PIK-294,B,9
+Plate_3_C09,Plate_3,C09,QR27,patient,Compound_2,10uM,GNF-2,C,9
+Plate_3_D09,Plate_3,D09,QR27,patient,Compound_3,10uM,Dovitinib (TKI-258),D,9
+Plate_3_E09,Plate_3,E09,QR27,patient,Compound_4,10uM,AZD5438,E,9
+Plate_3_F09,Plate_3,F09,QR27,patient,Compound_5,10uM,BAY 11-7082 (BAY 11-7821),F,9
+Plate_3_G09,Plate_3,G09,QR27,patient,Compound_6,10uM,PCI-32765 (Ibrutinib),G,9
+Plate_3_H09,Plate_3,H09,QR27,patient,Compound_7,10uM,SAR131675,H,9
+Plate_3_A10,Plate_3,A10,QR27,patient,Stauroporine,0.5uM,Staurosporine,A,10
+Plate_3_B10,Plate_3,B10,QR27,patient,Compound_8,10uM,TAK-285,B,10
+Plate_3_C10,Plate_3,C10,QR27,patient,Compound_9,10uM, Erlotinib(OSI-744),C,10
+Plate_3_D10,Plate_3,D10,QR27,patient,Compound_10,10uM,WP1130,D,10
+Plate_3_E10,Plate_3,E10,QR27,patient,Compound_11,10uM,TSU-68,E,10
+Plate_3_F10,Plate_3,F10,QR27,patient,Compound_12,10uM,KU-60019,F,10
+Plate_3_G10,Plate_3,G10,QR27,patient,Compound_13,10uM,"Duvelisib (IPI-145, INK1197)",G,10
+Plate_3_H10,Plate_3,H10,QR27,patient,Compound_14,10uM,AEE788 (NVP-AEE788),H,10
+Plate_3_A11,Plate_3,A11,QR27,patient,DMSO,0.10%,DMSO,A,11
+Plate_3_B11,Plate_3,B11,QR27,patient,Compound_1,10uM,PIK-294,B,11
+Plate_3_C11,Plate_3,C11,QR27,patient,Compound_2,10uM,GNF-2,C,11
+Plate_3_D11,Plate_3,D11,QR27,patient,Compound_3,10uM,Dovitinib (TKI-258),D,11
+Plate_3_E11,Plate_3,E11,QR27,patient,Compound_4,10uM,AZD5438,E,11
+Plate_3_F11,Plate_3,F11,QR27,patient,Compound_5,10uM,BAY 11-7082 (BAY 11-7821),F,11
+Plate_3_G11,Plate_3,G11,QR27,patient,Compound_6,10uM,PCI-32765 (Ibrutinib),G,11
+Plate_3_H11,Plate_3,H11,QR27,patient,Compound_7,10uM,SAR131675,H,11
+Plate_3_A12,Plate_3,A12,QR27,patient,Stauroporine,0.5uM,Staurosporine,A,12
+Plate_3_B12,Plate_3,B12,QR27,patient,Compound_8,10uM,TAK-285,B,12
+Plate_3_C12,Plate_3,C12,QR27,patient,Compound_9,10uM, Erlotinib(OSI-744),C,12
+Plate_3_D12,Plate_3,D12,QR27,patient,Compound_10,10uM,WP1130,D,12
+Plate_3_E12,Plate_3,E12,QR27,patient,Compound_11,10uM,TSU-68,E,12
+Plate_3_F12,Plate_3,F12,QR27,patient,Compound_12,10uM,KU-60019,F,12
+Plate_3_G12,Plate_3,G12,QR27,patient,Compound_13,10uM,"Duvelisib (IPI-145, INK1197)",G,12
+Plate_3_H12,Plate_3,H12,QR27,patient,Compound_14,10uM,AEE788 (NVP-AEE788),H,12
